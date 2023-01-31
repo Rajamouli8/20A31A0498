@@ -1,0 +1,21 @@
+'sep' is used to seperate values with any symbol 
+syntax: sep='symbol'
+
+difference b/w end and sep:
+with 'end ' we can concatenate our input values with different symbols
+with 'sep'  we can get all our input values seperated in same format
+
+split method is used to get multiple inputs from the user along with white spaces
+syntax: input().split(seperator,maxsplit)
+
+= is used to assign values
+== is used to compare values
+=== is used to compare both value and datatype of the quantities that are being compared
+
+% is used to denote remainder
+/ is used to denote quotient
+
+when using 'for ' loop,  if we want to print numbers backward then the 'end' value should be taken as the 'start ' value and vice versa and the 'step' value should be the negative value of the step we want
+
+each time outer-for iteration is initialized
+each time inner-for iteration is re-initialized
